@@ -9,3 +9,4 @@ export default async function connectToDB() {
         console.error('Error al conenctar:', err)
     }
 }
+
